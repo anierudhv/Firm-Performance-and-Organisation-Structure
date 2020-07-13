@@ -7,3 +7,5 @@ Business group affiliation is an important source of heterogeneity among organiz
 Please refer to my article for more information on the interpretability of the results. Analyses have been done using R.
 
 https://medium.com/@datintuit/firm-performance-and-organisation-structure-742203755dc3
+
+R code has information for the analyses.
